@@ -1,0 +1,6 @@
+c:\users\feng.lai\documents\visual studio 2015\Projects\fenggame\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll.config
+c:\users\feng.lai\documents\visual studio 2015\Projects\fenggame\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll
+c:\users\feng.lai\documents\visual studio 2015\Projects\fenggame\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.pdb
+c:\users\feng.lai\documents\visual studio 2015\Projects\fenggame\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.dll
+c:\users\feng.lai\documents\visual studio 2015\Projects\fenggame\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.pdb
+c:\Users\Feng.Lai\Documents\Visual Studio 2015\Projects\fenggame\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.csprojResolveAssemblyReference.cache
