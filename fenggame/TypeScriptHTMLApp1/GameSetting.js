@@ -1,4 +1,4 @@
-var GameSetting = /** @class */ (function () {
+var GameSetting = (function () {
     function GameSetting() {
         this.TOTAL_GAME_TIME = 60 * 60;
     }

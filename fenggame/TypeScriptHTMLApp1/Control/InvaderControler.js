@@ -4,7 +4,7 @@
 //reset invader
 //on invader clicked
 //on invader matched
-var InvaderControler = /** @class */ (function () {
+var InvaderControler = (function () {
     function InvaderControler(game) {
         this._image = GameSetting.getImage();
         this._game = game;
@@ -41,7 +41,7 @@ var InvaderControler = /** @class */ (function () {
     };
     InvaderControler.prototype.getRandomNumber = function () {
         var position = Math.floor(Math.random() * this._game._rule._numOfTotalInvader);
-        if (this._aliveInvaderPosition && this._aliveInvaderPosition.indexOf(position) > -1) { //if already exsist 
+        if (this._aliveInvaderPosition && this._aliveInvaderPosition.indexOf(position) > -1) {
             position = this.getRandomNumber();
         }
         return position;

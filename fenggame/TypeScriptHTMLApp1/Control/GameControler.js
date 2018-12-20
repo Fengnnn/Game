@@ -3,7 +3,7 @@
 //reset invaders
 //check if any match invader
 //update score
-var GameControler = /** @class */ (function () {
+var GameControler = (function () {
     function GameControler(game) {
         this._LastLiveInvaderClicked = false;
         this._invaderControler = new InvaderControler(game);

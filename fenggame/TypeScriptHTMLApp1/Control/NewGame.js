@@ -1,4 +1,4 @@
-var NewGame = /** @class */ (function () {
+var NewGame = (function () {
     function NewGame(rule, ctx) {
         //hold all the   values that should persistent through the  one round of game
         this._allInvaderList = new Array();

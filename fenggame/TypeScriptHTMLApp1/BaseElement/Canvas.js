@@ -1,4 +1,4 @@
-var Canvas = /** @class */ (function () {
+var Canvas = (function () {
     function Canvas(width, length) {
         this._width = width;
         this._length = length;
