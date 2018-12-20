@@ -16,6 +16,7 @@ var Greeter = (function () {
     return Greeter;
 }());
 window.onload = function () {
+    //add comment
     var el = document.getElementById('content');
     var greeter = new Greeter(el);
     greeter.start();

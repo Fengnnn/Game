@@ -22,6 +22,7 @@
 }
 
 window.onload = () => {
+    //add comment
     var el = document.getElementById('content');
     var greeter = new Greeter(el);
     greeter.start();
